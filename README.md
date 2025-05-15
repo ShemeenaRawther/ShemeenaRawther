@@ -14,8 +14,7 @@ I am a passionate **software developer** who loves sharing knowledge.
 - 🎓 Teaching via YouTube
 
 - 📫 Reach me at: **shemeenasrawther@gmail.com**
- 
-😄 Pronunciation: _she-meena!_
+- 😄 Pronunciation: _she-meena!_
 <!--
 **ShemeenaRawther/ShemeenaRawther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
