@@ -1,4 +1,4 @@
-## 👋 Hi. I'm Shemeena!
+## 👋 Hi, I'm Shemeena!
 
 I am a passionate **software developer** who loves sharing knowledge.
 
