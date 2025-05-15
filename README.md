@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi. I'm Shemeena!
+
+I am a passionate **software developer** who loves sharing knowledge.
+
+## 📈 GitHub Stats
+![Shemeena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShemeenaRawther&show_icons=true&theme=radical)
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShemeenaRawther&layout=compact&theme=radical)
 
 <!--
 **ShemeenaRawther/ShemeenaRawther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
