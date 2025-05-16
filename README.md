@@ -5,7 +5,7 @@ I am a passionate **software developer** who loves sharing knowledge.
 ## 📺 Find Me Online
 
 - [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CoderC-ur5et)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shemeenasulaiman/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shemeenasulaiman/)
   
 ## 📈 GitHub Stats
 ![Shemeena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShemeenaRawther&show_icons=true&theme=radical)
