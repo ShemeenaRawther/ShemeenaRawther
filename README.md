@@ -13,6 +13,7 @@ I am a passionate **software developer** who loves sharing knowledge.
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShemeenaRawther&layout=compact&theme=radical)
 
+## Visitor Count
 ![Visitor Count](https://count.getloli.com/get/@ShemeenaRawther?theme=rule34)
 
 ### 🔭 Currently working on:
