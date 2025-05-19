@@ -16,7 +16,7 @@ I am a passionate **software developer** who loves sharing knowledge.
 ## Visitor Count
 ![Visitor Count](https://count.getloli.com/get/@ShemeenaRawther?theme=rule34)
 
-### 🔭 Currently working on:
+## 🔭 Currently working on:
 - 🚀 New .net content
 - 🛠️ ASP.NET Core projects
 - 🎓 Teaching via YouTube
